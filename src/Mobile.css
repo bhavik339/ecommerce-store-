@@ -1,0 +1,12 @@
+@media (200px <= width <= 450px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+  }
+
+  .navList ul {
+    flex-direction: column;
+  }
+}
